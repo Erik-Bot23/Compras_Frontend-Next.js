@@ -1,0 +1,1 @@
+//Seguimiento con polling ~10s

@@ -1,0 +1,1 @@
+//Cliente fetch tipado -> base URL desde .env (http://localhost:8081/api)

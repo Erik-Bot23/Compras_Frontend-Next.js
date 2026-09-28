@@ -1,0 +1,1 @@
+//constantes estáticas (tipos de entrega, métodos de pago, estados)

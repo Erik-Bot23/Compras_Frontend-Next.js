@@ -1,0 +1,1 @@
+//Lista por categoría (SSR)

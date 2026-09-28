@@ -1,0 +1,1 @@
+//sesión del cliente: token en localStorage (client)

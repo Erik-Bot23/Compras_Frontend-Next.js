@@ -1,0 +1,1 @@
+//Acceso cliente ("use client")
